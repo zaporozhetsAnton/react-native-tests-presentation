@@ -1,0 +1,20 @@
+1 Jest examples
+2 Jest theory (matchers, mocking, async)
+  https://jestjs.io/docs/en/using-matchers
+  https://jestjs.io/docs/en/asynchronous
+  https://jestjs.io/docs/en/mock-functions
+  https://jestjs.io/docs/en/manual-mocks
+  https://jestjs.io/docs/en/expect
+  https://flaviocopes.com/jest/
+3 Testing Library theory
+  3.1 DOM Testing Library (render, events, async)
+  3.2 React Testing Library + jest-dom
+  3.3 Native Testing Library + jest-native
+  https://testing-library.com/docs/dom-testing-library/intro
+  https://testing-library.com/docs/react-testing-library/intro
+  https://testing-library.com/docs/native-testing-library/intro
+  https://testing-library.com/docs/ecosystem-jest-dom
+  https://testing-library.com/docs/ecosystem-jest-native
+4 Testing Library examples
+  https://testing-library.com/docs/example-react-redux#docsNav
+5 Conclusion (architecture)
